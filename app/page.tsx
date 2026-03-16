@@ -64,6 +64,13 @@ const TOOLS = [
     description: "Cari informasi seseorang berdasarkan nama: Wikipedia, Wikidata, GitHub, ORCID, OpenStreetMap",
     tag: "5 sumber",
   },
+  {
+    href: "/tools/social",
+    icon: "👥",
+    title: "Social Media Scraper",
+    description: "Scrape followers, following & subscribers: GitHub (list lengkap), Reddit (stats), + link manual Twitter, Instagram, TikTok, YouTube, Facebook",
+    tag: "6 platform",
+  },
 ];
 
 export default function Home() {
