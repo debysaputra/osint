@@ -71,6 +71,13 @@ const TOOLS = [
     description: "Scrape followers, following & subscribers: GitHub (list lengkap), Reddit (stats), + link manual Twitter, Instagram, TikTok, YouTube, Facebook",
     tag: "6 platform",
   },
+  {
+    href: "/tools/imei",
+    icon: "📱",
+    title: "IMEI Checker",
+    description: "Validasi IMEI via algoritma Luhn, decode struktur TAC/RBI/SNR, identifikasi brand & model perangkat",
+    tag: "Luhn + TAC",
+  },
 ];
 
 export default function Home() {
